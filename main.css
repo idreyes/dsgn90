@@ -1,0 +1,97 @@
+/* applies to anything of class "example-class-selector" */
+.example-class-selector {
+	margin-top: 2em;
+}
+
+/* applies to any <p> descendants of an element of class "example-class-selector" */
+.example-class-selector p {
+	/* Colors are in hexadecimal: http://www.colorpicker.com/ */
+	color: #CC00AA;
+}
+
+.project {
+    margin-left: 200px;
+    margin-right: 180px;
+}
+
+.col-md-8 {
+    margin-left: 250px;
+    margin-right: 250px;
+}
+
+.contact {
+    margin-left: 500px;
+}
+
+h1 {
+    font-size: 35px;
+    font-family: Century;
+    color: #723AAB;
+}
+
+h2 {
+    font-size: 28px;
+    font-family: Century;
+    color: #723AAB;
+    margin-top: 50px;
+}
+
+h3 {
+    font-size: 28px;
+    font-family: Century;
+    color: #723AAB;
+    margin-top: 30px;
+}
+
+h4 {
+    font-size: 28px;
+    font-family: Century;
+    color: #723AAB;
+    margin-top: 30px;
+}
+.title {
+    margin-left: 520px;
+}
+
+.img-thumbnail {
+    margin-left: 150px;
+    margin-top: 20px;
+}
+
+.col-md-4 {
+    margin-left: 325px;
+}
+
+.bigtitle {
+    margin-left: 500px;
+}
+
+p {
+    font-family: Century;
+    font-size: 14px;
+    color: #420F75;
+    margin-top: 15px;
+}
+
+li {
+    font-family: Century;
+    font-size: 14px;
+    color: #420F75;
+}
+
+.col-md-12 {
+    margin-left: 500px;
+}
+/* this style exists to make it obvious that you've successfully linked
+   the CSS to the page. feel free to remove it once the link is working. */
+body {
+     padding: 20px;
+     background-color: #FAFAAF;
+}
+
+.jumbotron-container {
+	position: relative;
+     margin-top: 50px;
+     margin-bottom: 20px;
+     padding: 20px;
+}
