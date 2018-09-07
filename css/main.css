@@ -9,7 +9,25 @@
 	color: #CC00AA;
 }
 
-.project {
+.title {
+    margin-left: 540px;
+}
+
+.img-thumbnail {
+    margin-left: 160px;
+    margin-top: 20px;
+}
+
+.col-md-4 {
+    margin-left: 340px;
+}
+
+.bigtitle {
+    margin-left: 530px;
+    margin-top: 50px;
+}
+
+.project p {
     margin-left: 220px;
     margin-right: 180px;
 }
@@ -21,6 +39,25 @@
 
 .contact {
     margin-left: 520px;
+}
+
+.jumbotron-container {
+    position: relative;
+     margin-top: 50px;
+     margin-bottom: 20px;
+     padding: 20px;
+}
+
+.btn {
+    border: none;
+    margin-top: 30px;
+    font-size: 20px;
+    background-color: #DEABEB;
+    margin-right: 500px;
+}
+
+.col-md-12 {
+    margin-left: 510px;
 }
 
 h1 {
@@ -49,23 +86,6 @@ h4 {
     color: #723AAB;
     margin-top: 30px;
 }
-.title {
-    margin-left: 540px;
-}
-
-.img-thumbnail {
-    margin-left: 160px;
-    margin-top: 20px;
-}
-
-.col-md-4 {
-    margin-left: 340px;
-}
-
-.bigtitle {
-    margin-left: 530px;
-    margin-top: 50px;
-}
 
 p {
     font-family: Century;
@@ -79,28 +99,9 @@ li {
     font-size: 14px;
     color: #420F75;
 }
-
-.col-md-12 {
-    margin-left: 510px;
-}
 /* this style exists to make it obvious that you've successfully linked
    the CSS to the page. feel free to remove it once the link is working. */
 body {
      padding: 20px;
      background-color: #FAFAAF;
-}
-
-.jumbotron-container {
-    position: relative;
-     margin-top: 50px;
-     margin-bottom: 20px;
-     padding: 20px;
-}
-
-.btn {
-    border: none;
-    margin-top: 30px;
-    font-size: 20px;
-    background-color: #DEABEB;
-    margin-right: 500px;
 }
